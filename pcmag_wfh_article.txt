@@ -1,0 +1,793 @@
+﻿COVER STORY
+FEATURES
+The 60 Best Work-From-Home Cities
+Looking to leave your cramped, expensive living space and work from home permanently? We’ve done the research, and these are the US and Canadian cities that provide the best balance of affordability, livability, and connectivity.
+The COVID-fueled remote-work boom is driving many North Americans to find new, more affordable homes. In November, rents for studio apartments in San Francisco plummeted by 35% year over year, according to The Real Deal; rents on high-priced apartments in New York City are also falling, The New York Times reported.
+If you can work anywhere, though, where should you go? We gathered data from Ookla Speedtest, BestPlaces.net, and BroadbandNow to find 50 US and 10 Canadian towns and cities with affordable housing, great gigabit internet connections, and remote-friendly lifestyles. Our list contains big cities, suburbs, and small towns, all with median house prices under $500,000—and even some under $100,000. San Francisco, New York, Toronto, and Vancouver didn’t make the list. [Note: Ookla Speedtest and PCMag are both owned by J2.]
+Remote work isn’t a brand-new phenomenon; the number of people working from home has been trending upward for years. The US Census has reported an increase in work-from-home folks every year since 2010, growing from 4.3% of Americans in 2010 to 5.7% in 2019. But of course, the pandemic accelerated that growth. By mid-June of 2020, Statista reported, up to 11.2% of workers in various industries were staying home, and 22% of workers said they’d be interested in working from home permanently.
+Canada reacted more quickly and intensely to the pandemic than the US did. By May, Statistics Canada estimated that in theory, 38.9% of Canadians could work from home, and that during the country’s March lockdown, just about that many were at home. Remote-worker jobs, as expected, cluster in information- and communication-based industries.
+“Most jobs in finance and insurance (85%), educational services (85%), and professional, scientific and technical services (84%) can potentially be performed from home while those in accommodation and food services (6%) and agriculture, forestry, fishing and hunting (4%) have almost no telework capacity,” Statistics Canada said.
+GET THE GIG
+To gauge the remote-working potential of towns, we started with gigabit connections. BroadbandNow says that about 56% of the US can get gigabit internet now, but it’s not always affordable, and it doesn’t always give you the upload speeds you need for true remote working.
+Fiber internet is the gold standard, in part because it’s more often symmetrical: Many cable service plans offer massively better download speeds than upload speeds. They generally advertise only their download speeds, which made more sense when the internet world was watching a ton of Netflix but not doing as much two-way video calling.
+ISPs may have had another reason not to particularly prioritize uploads: Before COVID-19, BitTorrent made up 27% of global upstream traffic, according to Sandvine. BitTorrent is a headache for ISPs because it is frequently used to share copyrighted media.
+The pandemic changed that game. According to a May report from Sandvine, between Feb. 1 and Apr. 19 of 2020, upstream traffic increased by 121%, while downstream traffic increased by only 23%. All of your Zoom calls and Google file uploads make it more important than ever to have fast and reliable upload speeds.
+Do you need gigabit internet for work and school? According to specs, not really. Four Zoom streams need a total of only 12Mbps up and down, according to Zoom. Various sites estimate a 4K video stream to consume about 25Mbps of bandwidth; Google Stadia wants 35Mbps for 4K HDR. So in theory, a 100Mbps internet connection should be fine for most families.
+That’s not always the case, for various reasons. Cable and wireless connections can get congested when lots of people are using them, delivering less than their stated potential. In a connected home, background tasks on multiple smartphones and PCs can also eat up bandwidth. That’s why we designated gigabit internet, with at least 800Mbps tested downloads and 200Mbps tested uploads, as our gold standard for a remote-working city.
+BEST OF THE BEST
+Our number-one remote-working town in the US is Chattanooga, known as “Gig City,” which rolled out a citywide fiber network in 2010. As we recounted in a 2018 feature, Chattanooga has been pushing hard to attract tech workers and companies based on its affordable real estate, business-friendly administrations, and widely available broadband internet. In 2019, according to the Census, 6.8% of Hamilton County, TN residents worked from home, compared with 5.7% of all Americans.
+“In 2020, it was evident that Chattanooga has been able to attract talent from major cities and companies. I’ve run into folks who work for Spotify, Stripe, Netflix, et al. The quality of life was a major reason many of these folks moved from places like NYC, SF, LA, and more,” Chattanooga venture capitalist Santosh Sankar told us.
+Southern Vermont locales also place highly in our ranking, with Pawlet at number four and Springfield at number 10, thanks to the efforts of the Vermont Telephone Company to revitalize 14 villages by wiring them with fiber. (Nearby Mount Holly would also have placed on the list, but it was too close to the other two towns.) Vtel’s president, Michael Guite, said the company started by wiring the local library with fiber in 2008 and then took its connections to 18,000 homes by 2016.
+Matt Dunne, the executive director of the local Foundation for Rural Innovation, said potential Vermonters should look beyond the well-known, hipper towns to find values in Vtel’s service area. “Springfield actually has a lot of beautiful buildings available for purchase. Places more associated with resorts or second homes have more of a housing crunch,” he said.
+Our list prioritizes places with large homes (such as number five, Kaysville, UT, where the average home has 8.2 rooms), but that’s not what everyone’s looking for. Remote worker Catherine Gellatly, for instance, prioritizes access to nature. She splits her time working for the New York Code & Theory between her 450-square-foot Vermont house and BRIC, a co-working space in Springfield. “I have found working from BRIC to be the best way for me to keep my home and work lives enjoyable and the boundary less blurred,” she said.
+The Workhorse space in Chattanooga provides gigabit internet and a desk for $57 per month—a tiny fraction of the $520 per month WeWork charges at their space nearest PCMag’s former office in Manhattan. Even Chattanooga’s fancier Society of Work charges only $150 per month.
+Smaller cities and towns dominate our list, but two big cities, Philadelphia (11) and Phoenix (37), made the cut. Philadelphia, home to cable provider Comcast, is a destination for New Yorkers looking for lower-cost living in a similar city atmosphere, according to a local CBS report from September.
+If a particular part of the country appeals to you, check out some of the towns near our top choices. Lenexa, KS (35), was just the top one of many Kansas City suburbs that could have made our list. Montour Falls, NY (41), is one of several towns in the beautiful Finger Lakes region served by a fast, affordable local ISP, Empire Access.
+IF CANADA’S YOUR HOME…
+In Canada, Atlantic Canada provides the best value for your loonie. The Francophone town of Dieppe, New Brunswick, just across the river from Moncton, scores at the top of our Canadian list, with several suburban parts of Halifax (2) coming just behind. Their strength is the combination of much lower real estate prices than Canada’s major centers and the availability of Bell’s superior 1.5Gbps Fibe Internet.
+“We launched Gigabit Fibe Internet service in more than 100 communities across Atlantic Canada in the fall of 2015, boosting speeds to 1.5Gbps in 2018. We now reach nearly 100% of homes and businesses in Dieppe and about 90% throughout [Halifax] with direct connections to our all-fiber network. Subscribers have increased almost tenfold in the last three years, with Gigabit+ subscriptions more than doubling,” Bell’s Nathan Gibson told us.
+Diversity is a big strength in the greater Moncton area, where Venn Innovation runs a “clubhouse” for a tech sector that started out with companies in the gambling industry and then expanded to call-center and back-office businesses after fiber came to town.
+“Atlantic Canada has been very aggressive going after that international talent,” said Doug Robertson, Venn’s CEO. “You can see the diversity out on the streets, you can see it in businesses, and you can see it in educational institutions. The Greater Moncton area is more diverse because of its linguistic duality and the history of its strong French-English balance.”
+Ready to pack up? Browse through our 60 city and town profiles to see what appeals to you. (Note that all broadband prices are per month.)
+METHODOLOGY: HOW WE RATED TOWNS
+We started with a few lists. One list, from Ookla Speedtest, had cities where the experts at Speedtest found common or frequent home gigabit internet usage in their crowdsourced database. Just having gigabit available wasn’t enough to qualify; Ookla required evidence that a significant number of households were receiving and using true gigabit speeds. I folded in our 25 best cities and small towns for remote working from preliminary stories we wrote last year, along with a few other places suggested by our editors. I removed places that weren’t actually towns: military bases, for instance, and church communities.
+BestPlaces.net ranks US cities and towns based on amenities and attractive factors. Its data includes median home values, whether the city is near a coastline or mountains, and coffee shops, parks, and non-chain restaurants in the area.
+BroadbandNow is the nation’s best website for comparing broadband prices. It gave us the names of gigabit home broadband providers in each town and their lowest monthly fees.
+The US Census American Community Survey measures many aspects of American living. The 2018 5-year ACS tables provided the median home size, percentage of home-based workers, and percentage of people in the arts, education, and healthcare. If the Census did not have data for a place, we took the data for the five-digit ZIP code assigned to that place.
+Here’s why we chose the criteria we used. First, we included only those cities with median home values below $500,000. If you want to find a beautiful, expensive house in cities on our list, you can; we just wanted to make sure they also have affordable housing.
+We then put the whole thing into an Excel blender. The points were added up and the locations were ranked on their total scores.
+Some “municipalities” are, for all intents and purposes, just neighborhoods in a larger city that for some reason kept their technical independence. We excluded any such location whose larger neighbor was not also on the list.
+If two places on the list were within 50 miles of each other, we consolidated or eliminated adjacent places. That gave us some more geographic diversity and prevented the list from being cluttered by a cluster of similar small municipalities near one another.
+UNITED STATES
+1. CHATTANOOGA, TN
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $186,500 
+Median home size: 5.2 rooms 
+Coffee shops per 100K: 27 
+Parks per 100K: 14 
+Non-chain restaurants: 74% 
+Workers in arts and education: 8.4% 
+Health care practitioners: 4.5% 
+Workers at home: 4.7% 
+The American South boasts many grand old cities with rich histories, but Chattanooga is number one on our list. It’s also known as Gig City: Chattanooga was the first US city to roll out a citywide gigabit network, and it’s become a major tech hub since then. But it’s also on top thanks to its low cost of living and array of family-friendly attractions. The city is home to the Tennessee Aquarium, the Bluff View Art District, and the Chattanooga Choo Choo, a popular community known for its restaurants and live music.
+2. BEAR VALLEY SPRINGS, CA
+Population: 5,389 
+Lowest cost for gigabit broadband: $60 
+Provider: Race Communications 
+Median home price: $357,800 
+Median home size: 6 rooms 
+Coffee shops per 100K: 18 
+Parks per 100K: 15 
+Non-chain restaurants: 74% 
+Workers in arts and education: 10.1% 
+Health care practitioners: 7.7% 
+Workers at home: 12.8% 
+If you’re looking to make a mountain retreat your new home, consider Bear Valley Springs, a private, gated community nestled in the Tehachapi Mountains. According to Wikipedia, this town offers pleasantly cooler weather than surrounding places during the summer; you’ll definitely see snow in the winter. You can also take a look at nearby Stallion Springs and Golden Hills for remote-working arrangements. The population is just under 5,400, and many residents are retirees.
+3. PAWLET, VT
+Population: 1,344 
+Lowest cost for gigabit broadband: $70 
+Provider: Vermont Telephone Company 
+Median home price: $221,500 
+Median home size: 6 rooms 
+Coffee shops per 100K: 32 
+Parks per 100K: 22 
+Non-chain restaurants: 90% 
+Workers in arts and education: 16.4% 
+Health care practitioners: 2.5% 
+Workers at home: 11.1% 
+The gorgeous Taconic Mountains in Vermont are hiding a gem of a country town called Pawlet, which offers incredible mountain views and quiet country living. Its population is just 1,344 people, so you’re certain to get to know your neighbors fast. The town is home to 22 parks and 32 coffee shops, and most of the restaurants are independently owned. Also consider nearby Springfield and Mount Holly, highly rated southern Vermont towns serviced by Vermont Telephone Company (VTel) for broadband connectivity.
+4. KAYSVILLE, UT
+Population: 30,328 
+Lowest cost for gigabit broadband: $55 
+Provider: Veracity Networks 
+Median home price: $441,600 
+Median home size: 8.2 rooms 
+Coffee shops per 100K: 17 
+Parks per 100K: 18 
+Non-chain restaurants: 69% 
+Workers in arts and education: 10.3% 
+Health care practitioners: 3.8% 
+Workers at home: 7.5% 
+Known as “Utah’s Hometown,” Kaysville is home to over 30,000 people. You get fantastic mountain views and proximity to Salt Lake City in case you need to experience some city life. The nearby towns of Centerville and Morgan are also great places to live. Kaysville is part of the Ogden-Clearfield metro area, and the massive Hill Air Force Base is a major employer in the area. Median home sizes are a generous 8.2 rooms, and the prices reflect this; the average home cost is $441,600.
+5. JONESBOROUGH, TN
+Population: 5,275 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $198,400 
+Median home size: 5.5 rooms 
+Coffee shops per 100K: 21 
+Parks per 100K: 13 
+Non-chain restaurants: 71% 
+Workers in arts and education: 14.4% 
+Health care practitioners: 3.7% 
+Workers at home: 8.7% 
+A picturesque mountain town filled with local shops, eateries, and other small businesses, Jonesborough calls itself the “storytelling capital of America.” It’s home to both the National Storytelling Festival and the International Storytelling Center, letting it punch far above its weight in terms of culture and quirk. “Tennessee’s oldest town,” founded before it achieved statehood, has a beautifully preserved downtown, with antique shops, independent coffee shops, a farmer’s market, and a distillery. It’s rich with handsome homes and Appalachian culture.
+6. PETOSKEY, MI
+Population: 5,696 
+Lowest cost for gigabit broadband: $100 
+Provider: Truestream 
+Median home price: $250,600 
+Median home size: 5.5 rooms 
+Coffee shops per 100K: 82 
+Parks per 100K: 55 
+Non-chain restaurants: 90% 
+Workers in arts and education: 11.2% 
+Health care practitioners: 6.5% 
+Workers at home: 7.3% 
+People are plenty passionate about pleasant Petoskey, a coastal resort in northern Michigan with a preserved Victorian downtown, beaches, and boating. The city’s name comes from the Odawa language and means “where the light shines through the clouds.” That’s a fine description of Petoskey, which is home to some of Michigan’s best ski slopes in the winter and summer fun on the beaches along Little Traverse Bay. And it’s close to Traverse City, called one of the “best small towns in America” by Architectural Digest. Petoskey is expensive for northern Michigan—so expensive that the local low-wage workers can’t afford to live there—but it’s still more affordable than many of the coastal cities from which tech workers may be coming.
+7. TURTLE CREEK, PA
+Population: 5,281 
+Lowest cost for gigabit broadband: $80 
+Provider: Verizon Fios 
+Median home price: $58,300 
+Median home size: 5 rooms 
+Coffee shops per 100K: 38 
+Parks per 100K: 14 
+Non-chain restaurants: 84% 
+Workers in arts and education: 6.5% 
+Health care practitioners: 1.8% 
+Workers at home: 6.7% 
+Pittsburgh has evolved into a tech-savvy, artsy city, and the eastern suburbs are some of the least expensive places to live in the area, including Turtle Creek but also Monroeville and North Versailles. If you choose to work remotely out of Turtle Creek, you’ll be just 12 miles away from downtown Pittsburgh for a fraction of the cost of living inside the city proper. Even closer is the college-town ambiance around Carnegie-Mellon University and University of Pittsburgh, among other top schools. There are plenty of coffee shops and independent restaurants to choose from right in Turtle Creek as well.
+8. BEMIDJI, MN
+Population: 14,803 
+Lowest cost for gigabit broadband: $65 
+Provider: CenturyLink 
+Median home price: $136,200 
+Median home size: 4.9 rooms 
+Workers in arts and education: 1.5% 
+Health care practitioners: 4.8% 
+Workers at home: 7.5% 
+Tall trees and tall tales abound in Bemidji. Located in northwest Minnesota, it’s known as the first city along the Mississippi River and is home to the tall tales of Paul Bunyan and his friend Babe the Blue Ox. The town has an 18-foot tall statue of the lumberjack standing beside the shores of beautiful Lake Bemidji. The city’s downtown area features an array of small businesses; it’s home to live theater, art galleries, a local brewery, and outdoor adventures at Itasca State Park, just 25 miles away.
+9. SPRINGFIELD, VT
+Population: 9,086 
+Lowest cost for gigabit broadband: $70 
+Provider: Vermont Telephone Company 
+Median home price: $133,700 
+Median home size: 5.8 rooms 
+Coffee shops per 100K: 45 
+Parks per 100K: 36 
+Non-chain restaurants: 94% 
+Workers in arts and education: 5.1% 
+Health care practitioners: 2.1% 
+Workers at home: 4.2% 
+Located in southeastern Vermont, Springfield is on the border of New Hampshire. The lovely Black River flows right through the downtown area, and from Hartness State Park to Hoyt’s Landing, there are plenty of beautiful outdoor areas to explore in Springfield. It also has a thriving tech community and a co-working space called the Black River Innovation Campus. In 2007, the town was chosen to host the premiere of The Simpsons Movie, which is set in a fictional town named Springfield. The median home price is $133,700, and the median home size is 5.8 rooms. You can get gigabit internet in this small town for $70 a month via the Vermont Telephone Company.
+10. EASTPOINTE, MI
+Population: 32,601 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $104,700 
+Median home size: 5.5 rooms 
+Coffee shops per 100K: 19 
+Parks per 100K: 12 
+Non-chain restaurants: 75% 
+Workers in arts and education: 3.8% 
+Health care practitioners: 2.1% 
+Workers at home: 3.6% 
+Proudly calling itself the “Gateway to Macomb County,” Eastpointe is a suburb in the Metro Detroit area. It’s close to Warren, Rosewood, and Sterling Heights, which are also great living options. And it’s near outdoor attractions including Lake St. Clair and Metropolitan Beach. Residents can take advantage of 12 parks and 19 coffee shops. Perhaps most enticing are the low living costs, with a median home price of just $104,700; AT&T Fiber provides gigabit broadband internet for just $60 a month.
+11. PHILADELPHIA, PA
+Population: 1,569,657 
+Lowest cost for gigabit broadband: $60 
+Provider: RCN 
+Median home price: $191,100 
+Median home size: 5.6 rooms 
+Coffee shops per 100K: 42 
+Parks per 100K: 11 
+Non-chain restaurants: 90% 
+Workers in arts and education: 8.2% 
+Health care practitioners: 4.9% 
+Workers at home: 3.8% 
+If you’re not ready to give up city living but want an alternative to New York City or Washington D.C., Philadelphia might fill the bill. You can enjoy the historical fascination of living near the birthplace of the US, the many excellent museums, and the city’s thriving art scene. Philly also has a rich culinary history that goes beyond cheesesteaks at Pat’s or Geno’s, and the impressive number of non-chain restaurants in the city reflects this history. Philadelphia is home to a very diverse population, though it’s also notorious for segregation. The median home price is $191,100, but you’ll likely pay more to live in attractive neighborhoods like Old City, Society Hill, Queen Village, Rittenhouse Square, Manayunk, and Chestnut Hill.
+12. LENEXA, KS
+Population: 52,030 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $323,000 
+Median home size: 6.5: rooms 
+Coffee shops per 100K: 24 
+Parks per 100K: 23 
+Non-chain restaurants: 70% 
+Workers in arts and education: 8.1% 
+Health care practitioners: 6% 
+Workers at home: 6.4% 
+Folks seem to be happy to live in Lenexa: The community’s government was ranked in the top 10% of the nation based on local satisfaction, according to the ETC Institute, a market research organization. Lenexa is a suburb of Kansas City, Missouri, which is known for great connectivity thanks to Google Fiber, and it boasts a vibrant tech community. Even better, the city hosts The Great Lenexa Barbecue Battle annually. Other nearby possibilities include Raytown, Gladstone, and Kansas City, Kansas.
+13. MIAMI LAKES, FL
+Population: 31,032 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $419,200 
+Median home size: 5.5 rooms 
+Coffee shops per 100K: 35 
+Parks per 100K: 15 
+Non-chain restaurants: 86% 
+Workers in arts and education: 7.3% 
+Health care practitioners: 6.6% 
+Workers at home: 6.2% 
+A suburb in the Miami metro area, Miami Lakes is known for its large estate lots and low crime rate. The town features tree-lined streets along with manmade lakes and canals. While it’s just 34 minutes away from Miami Beach, with its world-class beaches and nightlife, Miami Lakes still maintains a “small town” feel. The median home price is $419,200, and you can choose from 35 coffee shops when you need a break from your home office.
+14. FORT COLLINS, CO
+Population: 159,150 
+Lowest cost for gigabit broadband: $65 
+Provider: CenturyLink 
+Median home price: $428,400 
+Median home size: 5.6 rooms 
+Coffee shops per 100K: 51 
+Parks per 100K: 18 
+Non-chain restaurants: 79% 
+Workers in arts and education: 11.9% 
+Health care practitioners: 4.0% 
+Workers at home: 6.9% 
+Just a short drive from Denver, Fort Collins is home to Colorado State University and many tech companies. It’s filled with pubs and boutiques and is close to incredible mountains, lakes, and rivers. If you’re the outdoorsy type, you’ll love Fort Collins, which consistently ranks among the healthiest cities in the United States. Home prices are also cheaper than in nearby Denver or Boulder, with a median home price of $428,400.
+15. SAINT PAUL, TX
+Population: 1,038 
+Lowest cost for gigabit broadband: $60 
+Provider: Grande Communications 
+Median home price: $336,800 
+Median home size: 7.1 rooms 
+Coffee shops per 100K: 23 
+Parks per 100K: 12 
+Non-chain restaurants: 76% 
+Workers in arts and education: 9.0% 
+Health care practitioners: 6.6% 
+Workers at home: 10.2% 
+If the thought of a quiet rural setting in Texas appeals to you, check out the area northeast of Dallas. On the edge of lovely Lavon Lake is Saint Paul, a town with plenty of parks and highly rated schools. If you’re working remotely, you won’t be alone, as over 10% of the people who live in Saint Paul work from home. When you need a city fix, Dallas is just a 35-minute drive away.
+16. NILES, MI
+Population: 11,332: 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $136,400 
+Median home size: 5.3 rooms 
+Coffee shops per 100K: 30 
+Parks per 100K: 34 
+Non-chain restaurants: 79% 
+Workers in arts and education: 3.7% 
+Health care practitioners: 2.2% 
+Workers at home: 2.7% 
+On the banks of the St. Joseph River is Niles, also known as the City of Four Flags, as the old fort there was at one time occupied by France, Britain, Spain, and the United States. If you’re looking for riverside living with a lot of history, Niles may be the town for you. The city is just nine miles from South Bend, Indiana, and 90 miles from Chicago. Niles has a large number of parks, which are home to festivals in the spring, summer, and fall. Beachcombers will also appreciate nearby Lake Michigan’s beaches and state parks.
+17. TAOS, NM
+Population: 5,687 
+Lowest cost for gigabit broadband: $80 
+Provider: Xfinity from Comcast 
+Median home price: $313,700 
+Median home size: 4.6 rooms 
+Coffee shops per 100K: 88 
+Parks per 100K: 18 
+Non-chain restaurants: 93% 
+Workers in arts and education: 8.4% 
+Health care practitioners: 1.7% 
+Workers at home: 9.4% 
+Looking for a diverse town with fine art traditions, great culinary options, and a lively music scene? Taos is a great option. Home to an art colony, Taos also boasts a ski resort and a World Heritage Site, the Taos Pueblo, set against the backdrop of the majestic Rocky Mountains and Rio Grande Gorge. The art community has been thriving for decades; D.H. Lawrence and Georgia O’Keeffe lived and worked there. The city is also just a little over an hour away from Santa Fe, New Mexico.
+18. REEDSBURG, WI
+Population: 9,480 
+Lowest cost for gigabit broadband: $50 
+Provider: Reedsburg Utility Commission 
+Median home price: $179,800 
+Median home size: 5.7 rooms 
+Coffee shops per 100K: 35 
+Parks per 100K: 47 
+Non-chain restaurants: 84% 
+Workers in arts and education: 8.2% 
+Health care practitioners: 3.0% 
+Workers at home: 1.6% 
+About an hour north of busy Madison, Wisconsin is the rural city of Reedsburg. Teeming with small-town charm, the community boasts a top-notch school system and an abundance of natural resources along the Baraboo River. A very walkable historic downtown district flanks the river, as well as a thriving tech community. Some good news for remote workers: the city offers the fastest available Internet access in Wisconsin at gigabit speeds for just $50 a month via Reedsburg Utility Commission. The median home price is low at just $179,800, and there are a ton of parks to visit within the city limits.
+19. PRINCETON, MO
+Population: 950 
+Lowest cost for gigabit broadband: $105 
+Provider: GRM Networks 
+Median home price: $51,200 
+Median home size: 5.4 rooms 
+Coffee shops per 100K: 27 
+Parks per 100K: 27 
+Non-chain restaurants: 86% 
+Workers in arts and education: 9.7% 
+Health care practitioners: 0.2% 
+Workers at home: 6.4% 
+With the right internet connection, it’s possible to work from extremely smalltown America. Princeton is a perfect example: a historic little town in Missouri farm country, the birthplace of Calamity Jane, and the Mercer County seat. Princeton is pretty far from anywhere, and not much goes on here; that makes it a perfect place for quiet living in a home without a mortgage on it: Princeton ranks high on our list because of its very low housing and land costs.
+20. DAYTONA BEACH, FL
+Population: 65,339: 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $165,100 
+Median home size: 4.6 rooms 
+Coffee shops per 100K: 23 
+Parks per 100K: 23 
+Non-chain restaurants: 78% 
+Workers in arts and education: 6.5% 
+Health care practitioners: 3.3% 
+Workers at home: 4.6% 
+The Daytona Beach area is a popular spring break hotspot, but there’s also a great spot for remote workers nearby: The metro area includes Deltona, a bedroom community for Daytona and Orlando. Affordable housing in the form of planned communities for permanent residents is key in Daytona Beach, as the median home price is just $165,100. Along with Orlando, Daytona Beach offer numerous tourist attractions, and neighboring Deltona has plenty of lakes and woods to explore, as well as an abundance of parks and coffee shops and three private schools.
+21. THE WOODLANDS, TX
+Population: 109,608 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $363,800 
+Median home size: 7.3 rooms 
+Coffee shops per 100K: 19 
+Parks per 100K: 10 
+Non-chain restaurants: 73% 
+Workers in arts and education: 9.5% 
+Health care practitioners: 5.5% 
+Workers at home: 9.7% 
+The suburbs surrounding Houston comprise the fourth-largest metro area in the United States, and that’s where you’ll find The Woodlands. There are plenty of cultural options, from performing arts to museums, and The Woodlands is known for its many parks, golf courses, and corporate headquarters. Just under 10% of the labor force works from home. The Woodlands also has a fine public school system. And if you want to take a trip into the big city, it’s just 28 minutes from Houston.
+22. PRICE, UT
+Population: 8,337 
+Lowest cost for gigabit broadband: $55 
+Provider: Veracity Networks 
+Median home price: $195,200 
+Median home size: 5.5 rooms 
+Coffee shops per 100K: 29 
+Parks per 100K: 15 
+Non-chain restaurants: 71% 
+Workers in arts and education: 8.4% 
+Health care practitioners: 1.9% 
+Workers at home: 2.8% 
+A college town that’s home to Utah State University Eastern, Price is also close to dramatic natural beauty, including Nine Mile Canyon, Manti-La Sal National Forest, and the Cleveland-Lloyd Dinosaur Quarry. According to Wikipedia, Price is known for being a small but ethnically diverse community: Greek, Italian, eastern European, Mexican, Japanese, and other ethnic groups make up the population, which is unusual for small towns in Utah.
+23. RANGELY, CO
+Population: 2,169 
+Lowest cost for gigabit broadband: $70 
+Provider: Visionary 
+Median home price: $204,900 
+Median home size: 5.3 rooms 
+Coffee shops per 100K: 46 
+Parks per 100K: 15 
+Non-chain restaurants: 89% 
+Workers in arts and education: 13.2% 
+Health care practitioners: 2.0% 
+Workers at home: 4.1% 
+Looking to live in a place where ancient people and beasts roamed? Try Rangely. The rural town is located in the Great West region of Northwest Colorado and is close to Dinosaur National Monument. There are various nearby archeological sites, cave painting sites, museums, and camping and fishing spots for your family to explore. You can check out the Dinosaur Diamond Byway for a scenic driving experience. The median home price is a very affordable $204,900, and remote workers can find gigabit broadband internet for $70 a month.
+24. DIAMONDHEAD, MS
+Population: 8,200 
+Lowest cost for gigabit broadband: $80 
+Provider: C Spire Fiber 
+Median home price: $164,100 
+Median home size: 5.9 rooms 
+Coffee shops per 100K: 28 
+Parks per 100K: 2 
+Non-chain restaurants: 79% 
+Workers in arts and education: 15.2% 
+Health care practitioners: 5.8% 
+Workers at home: 4.3% 
+Located in the Gulfport-Biloxi-Pascagoula metro area, Diamondhead is a Gulf Coast city about 50 miles northeast of New Orleans and an affordable coastal alternative to Florida. The median home price of $164,100 is a bargain for water-adjacent property. Diamondhead also offers golf courses, marinas, tennis courts, and public parks to enjoy nearby. The winters are very mild, and you can check out local beaches almost year-round.
+25. MADISON, MS
+Population: 25,350 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $282,400 
+Median home size: 7.2 rooms 
+Coffee shops per 100K: 29 
+Parks per 100K: 10 
+Non-chain restaurants: 74% 
+Workers in arts and education: 11.1% 
+Health care practitioners: 11.5% 
+Workers at home: 3.4% 
+A suburb of Jackson, Mississippi’s largest city, Madison is also close to the Ross R. Barnett Reservoir, a popular summer attraction. The city features beautiful old neighborhoods as well as some newer architectural developments near the city of Canton. The University of Mississippi Medical Center is a major source of jobs and a strong healthcare network.
+26. CHARLESTON, WV
+Population: 49,384 
+Lowest cost for gigabit broadband: $80 
+Provider: Xfinity from Comcast 
+Median home price: $120,300 
+Median home size: 5.7 rooms 
+Coffee shops per 100K: 22 
+Parks per 100K: 10 
+Non-chain restaurants: 72% 
+Workers in arts and education: 9.0% 
+Health care practitioners: 6.9% 
+Workers at home: 3.4% 
+A rare state capital on our list, Charleston is also the commercial center of West Virginia. It offers a performing arts center in the downtown district as well as the Haddad Riverfront Park on the banks of the Kanawha River. The Kanawha State Forest is just seven miles south of Charleston and has a campground, a playground, and a 9,300-acre forest to explore. The median home price is a budget-friendly $120,300.
+27. FAIRBURN, GA
+Population: 14,257 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $204,500 
+Median home size: 5.6 rooms 
+Coffee shops per 100K: 50 
+Parks per 100K: 21 
+Non-chain restaurants: 83% 
+Workers in arts and education: 9.1% 
+Health care practitioners: 1.9% 
+Workers at home: 7.0% 
+Part of the Atlanta metro suburban area, Fairburn is 25 minutes south of the big city and Hartsfield-Jackson Atlanta International Airport, one of the world’s busiest travel hubs. Fairburn Main Street was created as part of the state’s efforts to encourage investment in the historic downtown district and features shops, restaurants, and other small businesses. Fairburn is also home to the Georgia Renaissance Festival and educational institutions including Brenau University and the Georgia Military Academy. And one of the best things about the Atlanta metro area is the low cost of high-quality real estate.
+28. THOMASBORO, IL
+Population: 1,082 
+Lowest cost for gigabit broadband: $60 
+Provider: Volo Broadband 
+Median home price: $86,500 
+Median home size; 5.6 rooms 
+Coffee shops per 100K: 32 
+Parks per 100K: 31 
+Non-chain restaurants: 74% 
+Workers in arts and education: 4.5% 
+Health care practitioners: 0.7% 
+Workers at home: 2.3% 
+Thomasboro is part of the Champaign-Urbana metro area, and nearby University of Illinois means bars, restaurants, and sporting events abound. Thomasboro also has a fair number of tech companies and research organizations. It’s just about two hours south of Chicago and 16 minutes from Champaign. The area is mostly prairie farmland, but attractions include Sleepy Creek Vineyards and the Staerkel Planetarium. The real treasure of Thomasboro is its real estate prices; the median home price is just $86,500.
+29. CUMBERLAND, MD
+Population: 20,084 
+Lowest cost for gigabit broadband: $80 
+Provider: Xfinity from Comcast 
+Median home price; $91,000 
+Median home size: 5.6 rooms 
+Coffee shops per 100K: 17 
+Parks per 100K: 12 
+Non-chain restaurants: 77% 
+Workers in arts and education: 5.2% 
+Health care practitioners: 4.8% 
+Workers at home: 2.3% 
+Just a two-hour drive from Pittsburgh, this town on the Potomac River features a thriving arts and entertainment district, the Western Maryland Railway Station, and The Great Allegheny Passage, a popular hiking and biking trail that starts in Pittsburgh and ends in Cumberland. The city is surrounded by beautiful natural landscapes, and it also offers plenty of environmental points of interest within driving distance, including Dan’s Mountain State Park and Rocky Gap State Park. Both housing and broadband costs are very low.
+30. WEIRTON, WV
+Population: 19,081 
+Lowest cost for gigabit broadband: $80 
+Provider: Xfinity from Comcast 
+Median home price: $91,500 
+Median home size: 5.7 rooms 
+Coffee shops per 100K: 100 
+Parks per 100K: 7 
+Non-chain restaurants: 85% 
+Workers in arts and education: 4.5% 
+Health care practitioners: 5.5% 
+Workers at home: 3.1% 
+Thirty miles west of Pittsburgh is the city of Weirton, West Virginia, a small steel town that borders the city of Steubenville, Ohio, across the Ohio River. According to BestPlaces, a Walmart distribution facility came to the region and boosted the local economy—but the cost of living in Weirton is 25.1% lower than the US average, and the median home price is just $91,500. There are plenty of coffee shops to work in or just enjoy in this community.
+31. PITTSBURG, KS
+Population: 20,278 
+Lowest cost for gigabit broadband: $70 
+Provider: Craw-Kan Telephone Cooperative 
+Median home price: $85,400 
+Median home size: 5.1 rooms 
+Coffee shops per 100K: 28 
+Parks per 100K: 23 
+Non-chain restaurants: 74% 
+Workers in arts and education: 11.8% 
+Health care practitioners: 3.3% 
+Workers at home: 2.5% 
+Named after the bigger city in Pennsylvania (which seems to be a remote-work nerve center), Pittsburg is nestled in the Ozark Highlands region of Kansas. A little over 2 hours from Kansas City, Missouri, it’s home to Pittsburg State University. The local government offers attractive incentives for new and existing businesses, among them low-cost or free land and bureaucratic fast-tracking, making it a hot spot for entrepreneurs. Pittsburg is also home to numerous festivals, including the Little Balkans Days Celebration; many are hosted at one of the city’s 23 parks. The cost of living is 31.2% lower than the U.S. national average.
+32. NATCHEZ, MS
+Population: 15,191 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $92,300 
+Median home size: 5.3 rooms 
+Coffee shops per 100K: 16 
+Parks per 100K: 19 
+Non-chain restaurants: 79% 
+Workers in arts and education: 9.0% 
+Health care practitioners: 4.9% 
+Workers at home: 1.5% 
+Natchez’s city slogan is “Y’all means all”—meaning it embraces diversity in perspectives, lifestyles, and cultures. It’s also the first settlement on the Mississippi River, just beating out New Orleans. Places to see in Natchez include a variety of antebellum mansions and Native American heritage sites. The city was once infamous for the gambling at Natchez Under-the-Hill, and today, you can still play the slots at the Magnolia Bluffs Casino. And Natchez encourages entrepreneurship by offering numerous marketing incentives for businesses. Located about 90 minutes away from Baton Rouge, Louisiana, Natchez is an affordable place to live on the Mississippi River, with its median home price of $92,300.
+33. OSWEGO, IL
+Population: 33,759 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $263,900 
+Median home size: 7.6 rooms 
+Coffee shops per 100K: 15 
+Parks per 100K: 20 
+Non-chain restaurants: 68% 
+Workers in arts and education: 11.1% 
+Health care practitioners: 5.9% 
+Workers at home: 4.8% 
+Oswego is a suburban village in Illinois, about an hour southwest of Chicago, where you’ll find lots of parks to explore and a thriving downtown district with small businesses and restaurants. Outdoorsy types can ride bikes along the Fox River Trail, which offers over 40 miles of riverfront views. Though the cost of living is a little above the US average, housing costs remain low.
+34. MACON, GA
+Population: 153,621 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $94,000 
+Median home size: 5.4 rooms 
+Coffee shops per 100K: 22 
+Parks per 100K: 8 
+Non-chain restaurants: 66% 
+Workers in arts and education: 8.2% 
+Health care practitioners: 4.9% 
+Workers at home: 2.8% 
+Macon is first and foremost a college town, home to Wesleyan College, Mercer University, Middle Georgia State University, and Central Georgia Technical College. The Georgia Music Hall of Fame is located within the city, reflecting its rich cultural and art heritage. Music greats such as Otis Redding and Little Richard once called Macon home, and the city has beautiful architecture along its tree-lined streets. Macon’s home prices are far lower than Atlanta to the north, with the median home price at $94,000.
+35. STOCK ISLAND, FL
+Population: 4,201 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $423,200 
+Median home size: 3.8 rooms 
+Coffee shops per 100K: 103 
+Parks per 100K: 43 
+Non-chain restaurants: 92% 
+Workers in arts and education: 4.3% 
+Health care practitioners: 1.2% 
+Workers at home: 0% 
+If you want the Key West lifestyle on a budget, look no further than Stock Island, Florida. With the Cow Key Channel separating it from Key West, Stock Island is a tranquil and diverse city that’s home to many workers who immigrated from Haiti and Cuba. Unlike Key West, most of the people living in Stock Island are year-round residents, and many of them are part of the active artist community that operates local shops and studios.
+36. MILLSBORO, DE
+Population: 4,181 
+Lowest cost for gigabit broadband: $80 
+Provider: Xfinity from Comcast 
+Median home price: $262,200 
+Median home size: 5.4 rooms 
+Coffee shops per 100K: 26 
+Parks per 100K: 14 
+Non-chain restaurants: 87% 
+Workers in arts and education: 10.2% 
+Health care practitioners: 2.9% 
+Workers at home: 6.9% 
+A small town in fast-growing Sussex County, Millsboro welcomes families and professionals with no sales tax, low property taxes, and a solid school district. The town of just over 4,000 people is within driving distance of Washington D.C., Philadelphia, Baltimore, and Norfolk, Virginia, while the coastal beach communities of Lewes, Rehoboth Beach, Dewey Beach, Bethany Beach, and Ocean City are less than 20 miles away.
+37. PHOENIX, AZ
+Population: 1,574,421 
+Lowest cost for gigabit broadband: $65 
+Provider: CenturyLink 
+Median home price: $283,200 
+Median home size: 5.1 rooms 
+Coffee shops per 100K: 27 
+Parks per 100K: 13 
+Non-chain restaurants: 73% 
+Workers in arts and education: 6.3% 
+Health care practitioners: 3.5% 
+Workers at home: 5.7% 
+Phoenix is a growing city with reasonable but rapidly rising home prices. You may want to check out Phoenix’s large, middle-class suburbs of Peoria, Mesa, Chandler, and Glendale for housing deals, and the college town of Tempe is a good option as well. Phoenix winters are warm and pleasant, and there’s plenty to do in a city with over 1.5 million people. The economy has been driven by tech companies, particularly in the software and defense sectors, that have relocated from California.
+38. HICKMAN, NE
+Population: 2,079 
+Lowest cost for gigabit broadband: $75 
+Provider: Windstream 
+Median home price: $269,900 
+Median home size: 6.7 rooms 
+Coffee shops per 100K: 30 
+Parks per 100K: 22 
+Non-chain restaurants: 76% 
+Workers in arts and education: 11.5% 
+Health care practitioners: 7.1% 
+Workers at home: 6.9% 
+Hickman is a small, rural midwestern town 16 miles from the Lincoln Metro Area in Nebraska and the University of Nebraska, which offers college-town bars and football in the fall. Almost 12% of the population is employed in the arts and education fields, and nearly 7% work from home.
+39. MORRISVILLE, NC
+Population: 23,873 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $327,900 
+Median home size: 5.3 rooms 
+Coffee shops per 100K: 29 
+Parks per 100K: 15 
+Non-chain restaurants: 76% 
+Workers in arts and education: 6.2% 
+Health care practitioners: 4.1% 
+Workers at home: 9.0% 
+A tech haven, Morrisville is part of the Research Triangle metro region, which includes Duke University in Durham, The University of North Carolina in Chapel Hill, and North Carolina State University in Raleigh. It has a strong economic base that’s bolstered by companies such as Lenovo, Oracle, and Syneos Health. Morrisville’s public school system is solid, and the city is known for family friendliness, diversity, and well-educated residents. It’s far enough inland that coastal storms aren’t much of a problem, and the weather is pretty pleasant year-round.
+40. MONTOUR FALLS, NY
+Population: 2,821 
+Lowest cost for gigabit broadband: $65 
+Provider: Empire Access 
+Median home price: $137,300 
+Median home size: 5.1 rooms 
+Coffee shops per 100K: 50 
+Parks per 100K: 22 
+Non-chain restaurants: 90% 
+Workers in arts and education: 5.8% 
+Health care practitioners: 4.4% 
+Workers at home: 2.9% 
+Montour Falls is one of several attractive towns in the Finger Lakes region served by Empire Access, which we named one of the best gaming ISPs in the US. The tiny village, just 3 square miles, is surrounded by hills and is home to several beautiful waterfalls. Nearby Corning and Elmira also landed further down on our list. The Finger Lakes region is New York’s largest wine-producing area, and the craft beer industry is also thriving there.
+41. HALEYVILLE, AL
+Population: 3,999 
+Lowest cost for gigabit broadband: $80 
+Provider: Tombigbee Electric Cooperative 
+Median home price: $69,300 
+Median home size: 5.1 rooms 
+Coffee shops per 100K: 13 
+Parks per 100K: 13 
+Non-chain restaurants: 71% 
+Workers in arts and education: 3.2% 
+Health care practitioners: 3.9% 
+Workers at home: 3.8% 
+Located a little over an hour north of Birmingham and nestled in the foothills of the Smoky Mountains, Haleyville has a small-town feel. Just under 4% of its residents work from home, so remote workers are something of an anomaly, but the low cost of living is worth it. For those craving a lively music scene, the city is less than an hour from Muscle Shoals on the Tennessee River, which is known for its music community. The median home price is extraordinarily low at $69,300.
+42. RANDALLSTOWN, MD
+Population: 35,438 
+Lowest cost for gigabit broadband: $80 
+Provider: Verizon Fios 
+Median home price: $262,300 
+Median home size: 6.8 rooms 
+Coffee shops per 100K: 16 
+Parks per 100K: 12 
+Non-chain restaurants: 77% 
+Workers in arts and education: 6.8% 
+Health care practitioners: 5.1% 
+Workers at home: 4.5% 
+An upscale, mostly African-American suburb of Baltimore, Randallstown offers low-key suburban living a short drive or subway ride from the city’s big-name attractions. Randallstown rated well for having spacious houses at relatively low prices near Baltimore and Washington, and the Verizon Fios internet is speedy and reliable. This might be a good pick for people working at home for government-related employers.
+43. TERRE HAUTE, IN
+Population: 60,691 
+Lowest cost for gigabit broadband: $67 
+Provider: Smithville Communications 
+Median home price: $100,100 
+Median home size: 5.1 rooms 
+Coffee shops per 100K: 28 
+Parks per 100K: 12 
+Non-chain restaurants: 66% 
+Workers in arts and education: 9.5% 
+Health care practitioners: 3.4% 
+Workers at home: 3.7% 
+Home to Indiana State University, Terre Haute is a college town 77 miles from Indianapolis. As a midwestern manufacturing city, much of its local economy relies on the businesses located in the Vigo County Industrial Park. For nature lovers, Terre Haute is close to the Wabashiki Fish and Wildlife Area.
+44. TAYLORVILLE, IL
+Population: 11,027 
+Lowest cost for gigabit broadband: $70 
+Provider: CTI Fiber 
+Median home price: $90,600 
+Median home size: 5.1 rooms 
+Coffee shops per 100K: 18 
+Parks per 100K: 21 
+Non-chain restaurants: 73% 
+Workers in arts and education: 6.0% 
+Health care practitioners: 3.0% 
+Workers at home: 4.1% 
+Tree-lined streets in orderly neighborhoods welcome you to Taylorville, a suburb of Springfield, Illinois. You’ll have access to plenty of outdoor fun. The city is close to golf courses and several lakes, and biking enthusiasts can check out the 15-mile Lincoln Prairie Trail, which starts at the city of Pana and continues into Taylorville. There are several parks for you and your family to enjoy, and small businesses make up the downtown area.
+45. BARTLESVILLE, OK
+Population: 36,398 
+Lowest cost for gigabit broadband: $60 
+Provider: AT&T Fiber 
+Median home price: $109,800 
+Median home size: 5.8 rooms 
+Coffee shops per 100K: 15 
+Parks per 100K: 13 
+Non-chain restaurants: 74% 
+Workers in arts and education: 7.1% 
+Health care practitioners: 2.3% 
+Workers at home: 2.8% 
+Located in Northeast Oklahoma, Bartlesville is 50 miles from Tulsa. The city has a lot of character: It’s the home of the famed Price Tower, the only skyscraper designed by Frank Lloyd Wright. If you have a gambler’s spirit, check out the Ramona-Cherokee Casino, in nearby Ramona. About 36,000 people call Bartlesville home, along with major businesses including ConocoPhillips and Phillips 66.
+46. SHALLOTTE, NC
+Population: 3,825 
+Lowest cost for gigabit broadband: $86 
+Provider: ATMC 
+Median home price: $204,300 
+Median home size: 4.9 rooms 
+Coffee shops per 100K: 25 
+Parks per 100K: 20 
+Non-chain restaurants: 84% 
+Workers in arts and education: 8.3% 
+Health care practitioners: 5.8% 
+Workers at home: 4.2% 
+Beaches abound near Shallotte, North Carolina: The town is just 10 minutes from Holden Beach, Ocean Isle Beach, and Sunset Beach. It’s something of a business hub for Brunswick County as well; over 610 companies call it home. The beautiful Shallotte River passes through the town, and residents tend to gather at Mulberry Park for summer concerts and movies. If you love to travel, the town is just 45 miles from the Myrtle Beach International Airport and 37 miles from the Wilmington International Airport. The median home price is a reasonable $204,300, and the lowest price for gigabit broadband is $86 a month from ATMC.
+47. KENSINGTON PARK, FL
+Population: 4,351 
+Lowest cost for gigabit broadband: $80 
+Provider: Xfinity from Comcast 
+Median home price: $174,900 
+Median home size: 5.2 rooms 
+Coffee shops per 100K: 39 
+Parks per 100K: 15 
+Non-chain restaurants: 84% 
+Workers in arts and education: 6.8% 
+Health care practitioners: 0.6% 
+Workers at home: 4.6% 
+Kensington Park, with a population of just over 4,300, is a somewhat rural area that’s close to the sunny beaches of Sarasota, Florida. Sarasota is home to lots of arts and cultural institutes as well, including the Ringling Museum of Art, the Marie Selby Botanical Gardens, and Ca’d’Zan, the opulent former home of John Ringling and his wife Mable.
+48. BROOKLYN PARK, MN
+Population: 79,462 
+Lowest cost for gigabit broadband: $65 
+Provider: CenturyLink 
+Median home price: $241,600 
+Median home size: 6.4 rooms 
+Workers in arts and education: 5.2% 
+Health care practitioners: 1.4% 
+Workers at home: 3.9% 
+Known as “Tree City USA,” Brooklyn Park is home to 47 miles of trails and 67 parks. It’s 15 minutes from the Minneapolis–St. Paul–Bloomington metro area, which has a lot to offer remote workers, with its many industrial and educational centers. Companies calling the area home include General Mills, 3M, US Bancorp, and United Healthcare. Area schools have a great reputation, and you’ll have an array of major- and minor-league sports teams to follow.
+49. ARLINGTON, WA
+Population: 18,884 
+Lowest cost for gigabit broadband: $80 
+Provider: AT&T Fiber 
+Median home price: $439,900 
+Median home size: 5.5 rooms 
+Coffee shops per 100K: 62 
+Parks per 100K: 18 
+Non-chain restaurants: 80% 
+Workers in arts and education: 7.5% 
+Health care practitioners: 2.5% 
+Workers at home: 4.7% 
+Part of Seattle’s metro area, this city with a small-town atmosphere rests on the Stillaguamish River. Top-quality schools, a lively downtown area, and plenty of outdoor activities in the Cascades and at Puget Sound are available in Arlington. It costs a little more to live here than other places on our list, as the median home price is $439,900. The lowest cost for gigabit broadband internet is $80 a month from AT&T Fiber.
+50. BEACHWOOD, NJ
+Population: 11,193 
+Lowest cost for gigabit broadband: $80 
+Provider: Xfinity from Comcast 
+Median home price: $248,800 
+Median home size: 6.2 rooms 
+Coffee shops per 100K: 16 
+Parks per 100K: 8 
+Non-chain restaurants: 89% 
+Workers in arts and education: 10.0% 
+Health care practitioners: 2.8% 
+Workers at home: 2.8% 
+In Ocean County, New Jersey, Beachwood is a small riverfront community that is home to a little over 11,000 people. New York City is an hour or so away, making Beachwood a great place for remote workers to get away from the stress of the big city—though not too far away—and settle somewhere that’s safer and more affordable.
+CANADA
+1. DIEPPE, NB
+Population: 27,300 
+Lowest cost for gigabit broadband: $112.95 
+Median income: $39,582 
+Average rooms per dwelling: 6.6 
+Affordable housing: 83% 
+Households with postsecondary certificate: 64% 
+Employed in arts and culture: 2.6% 
+Independent coffee shops in town: 7 
+Access to major city: Dieppe is part of Greater Moncton 
+Our first Canadian entry is Dieppe, one of the largest French-speaking cities outside Quebec. Dieppe is part of the (English-speaking) Moncton metro area and offers numerous parks and green spaces, along with over 55 kilometers of trails perfect for hikers and bikers. Other highlights include downtown restaurants, a public square, a cultural center, a farmers market, and the Dieppe Boulevard sector, a growing business and residential area.
+2. HALIFAX, NS
+Population: 403,131 
+Lowest cost for gigabit broadband: $99.95 
+Median income: $36,098 
+Average rooms per dwelling: 6.4 
+Affordable housing: 75% 
+Households with postsecondary certificate: 60% 
+Employed in arts and culture: 1.9% 
+Access to major city: Halifax is a major city 
+Halifax is a major economic center for the Atlantic side of Canada, and it’s home to many government services and private companies. That said, the outlying suburban areas of Halifax in Nova Scotia, specifically Hackett’s Cove and Hubley, are what caught our eye. Homes are especially affordable in Hackett’s Cove, where 87% of residents pay less than 30% of their income for housing. The houses are big, too, with an average of 7.9 rooms. Hackett’s Cove features natural attractions such as Fox Point Beach and Bayswater Beach Provincial Park. Hubley is another place to check out: It also features affordable real estate and hiking trails, and it’s just 15 kilometers from Halifax.
+3. LOGY BAY-MIDDLE COVE-OUTER COVE, NL
+Population: 2,285 
+Lowest cost for gigabit broadband: $112.95 
+Median income: $47.904 
+Average rooms per dwelling: 8.4 
+Affordable housing: 89% 
+Households with postsecondary certificate: 66% 
+Employed in arts and culture: 3.3% 
+Access to major city: 10km from St John’s 
+Is your true love the sea? This northern suburb of St. John’s is pure maritime living: rugged, winding roads leading to beautiful beaches on the cold, brave Atlantic. It’s still only 10 minutes from St. John’s, though, so it’s easy to dip into city living, and as the home of Memorial University’s Ocean Science Centre, there’s an intellectual component to the town as well. There’s not much to do in Logy Bay itself other than watch the crashing of the waves, but you can do so from a huge house with gigabit broadband. Statcan says the average home is huge, at 8.4 rooms.
+4. QUISPAMSIS, NB
+Population: 18,250 
+Lowest cost for gigabit broadband: $112.95 
+Median income: $43,686 
+Average rooms per dwelling: 7.8 
+Affordable housing: 89% 
+Households with postsecondary certificate: 62 
+Employed in arts and culture: 2.4% 
+Independent coffee shops in town: 2 
+Access to major city: 21km from Saint John 
+Named the “best place to live in Atlantic Canada” by MoneySense, Quispamsis offers plenty of parks, good schools, and small businesses. It’s a prominent suburb of Saint John, which offers a plethora of historical and cultural sites. Quispamsis is particularly attractive to older residents, for whom it hosts a number of community programs and wellness initiatives. And housing is very affordable: 89% of residents pay less than 30% of their income for their homes.
+5. SAINT-ZOTIQUE, QC
+Population: 7,934 
+Lowest cost for gigabit broadband: $79.95 
+Median income: $38,661 
+Average rooms per dwelling: 6.3 
+Affordable housing: 84% 
+Households with postsecondary certificate: 52% 
+Employed in arts and culture: 2% 
+Independent coffee shops in town: 2 
+Access to major city: 66km from Montreal 
+Enjoy summer vacation all year long in Saint-Zotique, a resort town about an hour west of Montreal. During the summer, Saint-Zotique buzzes with activity; during the winter, you may have the beach to yourself as the resorts empty out. While Saint-Zotique is a French-speaking town, it’s only a 20-minute drive east or west to more thoroughly bilingual locales. And real estate is surprisingly inexpensive for a tourist spot—84% of residents pay less than 30% of their income for their homes.
+6. AYR, ON
+Population: 4,171 
+Lowest cost for gigabit broadband: $84.99 
+Median income: $46,165 
+Average rooms per dwelling: 7.8 
+Affordable housing: 90% 
+Households with postsecondary certificate: 58% 
+Employed in arts and culture: 2.4% 
+Independent coffee shops in town: 1 
+Access to major city: 21km from Kitchener 
+Twenty-one kilometers south of Kitchener is the community of Ayr, in Ontario’s Waterloo region. The bedroom community has become a hotspot for entrepreneurs, who have brought culinary schools and brewpubs. The picturesque downtown area is sought out by Hollywood filmmakers who shoot anything from movie scenes to television shows in front of the historic houses that line the streets. You can get a lot of real estate for your money here, as 90% of the people who live in Ayr pay less than 30% of their income for their homes, and the houses average 7.8 rooms per dwelling.
+7. KING, ON
+Population: 24,512 
+Lowest cost for gigabit broadband: $84.99 
+Median income: $43,274 
+Average rooms per dwelling: 8 
+Affordable housings: 74% 
+Households with postsecondary certificate: 58% 
+Employed in arts and culture: 2.5% 
+Independent coffee shops in town: 5 
+Access to major city: 50km from Toronto 
+If you’re looking to live within driving distance of Toronto but crave lower housing prices and a small-town feel, two smaller population centers may be attractive to you: King City and Schomberg. King City is the biggest community in King Township, and Schomberg is a small village of just under 2,700 people. Both areas have been discovered by Hollywood; many television shows and movies are shot there thanks to the charming ambiance they offer.
+8. COALDALE, AB
+Population: 8,215 
+Lowest cost for gigabit broadband: $99 
+Median income: $39,226 
+Average rooms per dwelling: 7.4 
+Affordable housing: 84% 
+Households with postsecondary certificate: 48% 
+Employed in arts and culture: 1.5% 
+Independent coffee shops in town: 1 
+Access to major city: 17km from Lethbridge 
+A growing community just minutes away from the city of Lethbridge, Coaldale has been working to attract new businesses. The town offers community gardens, excellent schools for the kids, and an overall appreciation for smalltown living. The community council invested $5 million into the Northeast Industrial Park and offers a number of attractive business-incentive packages. Beyond the schools, this place is a great option for families with many kid-friendly attractions—the Alberta Birds of Prey Centre and the Gem of the West Museum, for instance.
+9. BAIE-SAINT-PAUL, QC
+Population: 7,146 
+Lowest cost for gigabit broadband: $79.95 
+Median income: $30,805 
+Average rooms per dwelling: 6.1 
+Affordable housing: 82% 
+Households with postsecondary certificate: 57% 
+Employed in arts and culture: 2.9% 
+Independent coffee shops in town: 6 
+Access to major city: 93km from Quebec City 
+Founded in 1678, Baie-Saint-Paul is one of the oldest cities on our list. It’s 93 kilometers from Quebec City, in the tourist region of Charlevoix. Baie-Saint-Paul has been a destination for artists for decades, as many pass through to receive inspiration from the breathtaking scenery nearby. The city is home to 30 art galleries, as well as numerous restaurants and shops. Housing is very affordable, with 82% of residents spending less than 30% of their income on their homes.
+10. OLDS, AB
+Population: 9,184 
+Lowest cost for gigabit broadband: $99 
+Median income: $37,910 
+Average rooms per dwelling: 6.8 
+Affordable housing: 79% 
+Households with postsecondary certificate: 50% 
+Employed in arts and culture: 2.7% 
+Independent coffee shops in town: 2 
+Access to major city: 95km from Calgary 
+Olds is a little over an hour’s drive from Calgary and hosts the famed Olds College. The neighborhoods that surround the town offer a variety of house styles, including mansions and mobile-home parks. According to the rural community’s website, Olds prides itself on championing racial diversity and recognizes that it’s on the traditional territories of the Blackfoot Confederacy, the Tsuut’ina First Nation, and the Stoney Nakoda Nations. Olds has its own fiber internet network called O-Net, which provides gigabit internet speeds for residents and businesses. That said, the lowest price we found for gigabit broadband is $99 (CAD) a month, from Telus.
